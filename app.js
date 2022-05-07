@@ -13,7 +13,7 @@ const fetchBooks = async() => {
     return data
     
 }
-//this part came from Nancy's project example I attended
+
 function getBooks() {
     const ul = document.getElementById('book-list')
     info.innerHTML = " ";
